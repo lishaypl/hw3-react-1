@@ -1,0 +1,14 @@
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\bin\Debug\DATA.dll.config
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\bin\Debug\DATA.dll
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\bin\Debug\DATA.pdb
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\bin\Debug\EntityFramework.dll
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\bin\Debug\EntityFramework.xml
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\obj\Debug\DATA.csproj.CopyComplete
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\obj\Debug\DATA.dll
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\obj\Debug\DATA.pdb
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\97250\Desktop\react\my_kitchen2\DATA\bin\Debug\Newtonsoft.Json.xml
